@@ -1,0 +1,6 @@
+[submodule "workwize-app"]
+	path = workwize-app
+	url = git@github.com:gabrielbidula/workwize-app.git
+[submodule "workwize-api"]
+	path = workwize-api
+	url = git@github.com:gabrielbidula/workwize-api.git
